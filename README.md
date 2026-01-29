@@ -42,8 +42,3 @@ The project workflow:
 > Make sure `synthetic_personal_finance_dataset.csv` is in the project folder before running the script.
 
 ---
-
-
-piring AI & Data Science Engineer  
-- [GitHub](https://github.com/your-username)  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
